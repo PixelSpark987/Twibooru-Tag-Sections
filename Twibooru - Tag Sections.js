@@ -2,8 +2,11 @@
 // @name         Twibooru - Tag Sections
 // @description  Groups tags into Watched, Spoiled, Hidden, and Other sections
 // @namespace    http://tampermonkey.net/
-// @version      2.10
+// @version      2.11
 // @author       PixelSpark987 - https://is.gd/PS987
+// @homepage     https://github.com/PixelSpark987/Twibooru-Tag-Sections
+// @downloadURL  https://raw.githubusercontent.com/PixelSpark987/Twibooru-Tag-Sections/refs/heads/main/Twibooru%20-%20Tag%20Sections.js
+// @updateURL    https://raw.githubusercontent.com/PixelSpark987/Twibooru-Tag-Sections/refs/heads/main/Twibooru%20-%20Tag%20Sections.js
 // @match        *://twibooru.org/*
 // @match        *://*.twibooru.org/*
 // @match        *://derpibooru.org/*
